@@ -1,7 +1,7 @@
 #  Projeto - Conhecendo o AWS SageMaker para tarefas de Machine Learning
 
 <h1>
-    <img src="https://i.ibb.co/w6NGdV6/Certificado.jpg" alt="SQL Server e XML-Persistindo XML de maneira eficiente" border="0">
+   <img src="https://i.ibb.co/FbQjv23/Conhecendo-o-AWS-Sage-Maker-para-tarefas-de-Machine-Learning.jpg" alt="Conhecendo-o-AWS-Sage-Maker-para-tarefas-de-Machine-Learning" border="0">
 </h1>
 <br>
 Repositório de códigos da plataforma de Projetos PRO da <a href="https://web.digitalinnovation.one/labs">***Digital Innovation One***</a> sobre AWS Sagemaker
